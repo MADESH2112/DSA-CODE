@@ -8,7 +8,7 @@ public class basic{
         int sum=num1+num2;
         System.out.println("sum = "+sum);
         
-        // Write a program that takes an integer, then a string, then a char from the user and prints them in the screen.
+        // Write a program that takes an integer, then a string, then a char from the user and print.
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
         String name=sc.next();
