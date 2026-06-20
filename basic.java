@@ -51,8 +51,20 @@ public class basic{
                 System.out.println("invalid");
                 break;
          }
+         //Write a program which takes two values x and y. Prints x for y number of times.
+         Scanner s3=new Scanner(System.in);
+         int x=s3.nextInt();
+         int y=s3.nextInt();
+         for(int i=1;i<=y;i++){
+            System.out.println(x);
          }
-
+         //Write a program to take x and print multiples of x till 1000.
+         Scanner s4=new Scanner(System.in);
+         int x1=s4.nextInt();
+         for(int i=x1;i<=1000;i=i+x1){
+            System.out.println(i);
+         }
     }
+}
 
 
