@@ -1,4 +1,4 @@
-public class pattern8{
+public class pattern08{
     public static void main(String[]args){
         int n=4;
         for(int i=1;i<=n;i++){

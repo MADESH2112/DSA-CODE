@@ -1,4 +1,4 @@
-public class pattern7{
+public class pattern07{
     public static void main(String[]args){
         int n=4;
         for(int i=1;i<=4;i++){
