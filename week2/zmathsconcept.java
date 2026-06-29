@@ -1,5 +1,5 @@
 //find last digit of a number
-public class mathsconcept{
+public class zmathsconcept{
     public static void main(String[]args){
         int n=4235;
         while(n>0){
